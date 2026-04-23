@@ -1,6 +1,6 @@
 /**
- * meinegartenecke.de - نظام الترجمة DE / AR
- * يدعم: ألماني (الافتراضي) وعربي
+ * meinegartenecke.de - Sprachsystem DE / EN
+ * Unterstützt: Deutsch (Standard) und Englisch
  */
 (function () {
   var STORAGE_KEY = 'mgecke_lang';
@@ -104,102 +104,102 @@
       'Newsletter':            'Newsletter',
     },
 
-    ar: {
+    en: {
       // navigation
-      'Home':               'الرئيسية',
-      'Home 01':            'الرئيسية 01',
-      'Home 02':            'الرئيسية 02',
-      'About':              'من نحن',
-      'About Us':           'من نحن',
-      'Team':               'الفريق',
-      'Faq':                'الأسئلة الشائعة',
-      'Services':           'خدماتنا',
-      'Service Details':    'تفاصيل الخدمة',
-      'Case':               'مشاريعنا',
-      'Case Study':         'دراسة حالة',
-      'Case Details':       'تفاصيل المشروع',
-      'Blog':               'المدونة',
-      'Blog Standard':      'المدونة',
-      'Blog Detail':        'تفاصيل المقال',
-      'Contact':            'اتصل بنا',
+      'Home':               'Home',
+      'Home 01':            'Home 01',
+      'Home 02':            'Home 02',
+      'About':              'About',
+      'About Us':           'About Us',
+      'Team':               'Team',
+      'Faq':                'FAQ',
+      'Services':           'Services',
+      'Service Details':    'Service Details',
+      'Case':               'Projects',
+      'Case Study':         'Case Study',
+      'Case Details':       'Project Details',
+      'Blog':               'Blog',
+      'Blog Standard':      'Blog',
+      'Blog Detail':        'Blog Post',
+      'Contact':            'Contact',
       // buttons
-      'Get A Quote':        'احصل على عرض',
-      'Read More':          'اقرأ المزيد',
-      'Send message':       'إرسال الرسالة',
-      'Subsrcibe':          'اشترك',
+      'Get A Quote':        'Get A Quote',
+      'Read More':          'Read More',
+      'Send message':       'Send Message',
+      'Subsrcibe':          'Subscribe',
       // hero
-      'MARKETS & RESOURCES':           'الأسواق والموارد',
-      'Planting a garden is':           'زرع حديقة يشبه',
-      'similar to believe in':          'الإيمان',
-      'tomorrow':                       'بالغد',
-      'Grow your health':               'انمُ بصحة',
-      'grow a garden':                  'ابنِ حديقتك',
+      'MARKETS & RESOURCES':           'MARKETS & RESOURCES',
+      'Planting a garden is':           'Planting a garden is',
+      'similar to believe in':          'similar to believing in',
+      'tomorrow':                       'tomorrow',
+      'Grow your health':               'Grow your health –',
+      'grow a garden':                  'grow a garden',
       // features
-      'Landscaping':           'تنسيق الحدائق',
-      'Pruning plants':        'تقليم النباتات',
-      'Lawn Maintenance':      'صيانة العشب',
-      'Irrigation & Drainage': 'الري والصرف',
-      'Garden Maintenance':    'صيانة الحديقة',
+      'Landscaping':           'Landscaping',
+      'Pruning plants':        'Pruning Plants',
+      'Lawn Maintenance':      'Lawn Maintenance',
+      'Irrigation & Drainage': 'Irrigation & Drainage',
+      'Garden Maintenance':    'Garden Maintenance',
       // about
-      'ABOUT US':                           'من نحن',
-      'The Best Choice For your Business.': 'الخيار الأمثل لأعمالك.',
-      'Best Ui Designer':                   'أفضل مصممي الحدائق',
-      'Counter In Work.':                   'مشاريع قيد التنفيذ',
-      'Years Of experience':                'سنوات من الخبرة',
+      'ABOUT US':                           'ABOUT US',
+      'The Best Choice For your Business.': 'The Best Choice For Your Business.',
+      'Best Ui Designer':                   'Expert Designers',
+      'Counter In Work.':                   'Projects In Progress',
+      'Years Of experience':                'Years Of Experience',
       // services
-      'WHAT WE DO':                          'ما نقدمه',
-      'What You Can Do':                     'ما يمكنك تحقيقه',
-      'with Meine Garten Ecke':              'مع ماين غارتن إيكه',
+      'WHAT WE DO':                          'WHAT WE DO',
+      'What You Can Do':                     'What You Can Do',
+      'with Meine Garten Ecke':              'with Meine Garten Ecke',
       // team
-      'MEET OUR TEAM':    'تعرّف على فريقنا',
-      'Our Creative Team':'فريقنا المبدع',
-      'Design Expert':    'خبير تصميم',
+      'MEET OUR TEAM':    'MEET OUR TEAM',
+      'Our Creative Team':'Our Creative Team',
+      'Design Expert':    'Design Expert',
       // portfolio
-      'Finished Work':         'مشروع مكتمل',
-      'Dummy text of free available': 'وصف قصير للمشروع',
+      'Finished Work':         'Finished Work',
+      'Dummy text of free available': 'Short project description',
       // testimonials
-      'CLIENT TESTIMONIALS':   'آراء العملاء',
-      'What our clients say':  'ماذا يقول عملاؤنا',
+      'CLIENT TESTIMONIALS':   'CLIENT TESTIMONIALS',
+      'What our clients say':  'What Our Clients Say',
       // about 2
-      'We Have The Perfect soluion For You': 'لدينا الحل المثالي لك',
-      'available in market the printing':    'متوفر في السوق',
-      'Lorem Ipsum simply dummy':            'نص تجريبي بسيط',
-      'market the printing':                 'سوق الطباعة',
-      'market the printing typesetting':     'الطباعة والتنضيد',
-      'Lorem Ipsum simply free':             'متاح مجاناً',
-      'Get notified about the event! Subscribe today': 'اشترك اليوم واحصل على آخر المستجدات!',
+      'We Have The Perfect soluion For You': 'We Have The Perfect Solution For You',
+      'available in market the printing':    'Available in the market',
+      'Lorem Ipsum simply dummy':            'Simply a sample text',
+      'market the printing':                 'Printing market',
+      'market the printing typesetting':     'Typesetting & Printing',
+      'Lorem Ipsum simply free':             'Freely available',
+      'Get notified about the event! Subscribe today': 'Get notified about events! Subscribe today',
       // work process
-      'WORK PROCESS':          'طريقة العمل',
-      'We Complete Every':     'ننجز كل',
-      'Step Carefully':        'خطوة بعناية',
-      'Set Design Target':     'تحديد هدف التصميم',
-      'Genaret Uniq Idea':     'توليد أفكار مبتكرة',
-      'Friendly Service':      'خدمة ودودة',
+      'WORK PROCESS':          'WORK PROCESS',
+      'We Complete Every':     'We Complete Every',
+      'Step Carefully':        'Step Carefully',
+      'Set Design Target':     'Set Design Target',
+      'Genaret Uniq Idea':     'Generate Unique Ideas',
+      'Friendly Service':      'Friendly Service',
       // contact
-      'GET IN TOUCH':          'تواصل معنا',
-      'We want to share our locationto find us easily.': 'نريد مشاركة موقعنا لتجدنا بسهولة.',
-      'Name (required)':       'الاسم (مطلوب)',
-      'Phone (optional)':      'الهاتف (اختياري)',
-      'Email address (required)': 'البريد الإلكتروني (مطلوب)',
-      'Services (required)':   'الخدمة (مطلوبة)',
-      'Choose services':       'اختر الخدمة',
-      'Your message*':         'رسالتك*',
-      'Full Name':             'الاسم الكامل',
-      'Phone Number':          'رقم الهاتف',
-      'Email Address':         'البريد الإلكتروني',
-      'Your Message':          'رسالتك',
-      'Our Address':           'عنواننا',
-      'Our Phone':             'هاتفنا',
-      'Our Email':             'بريدنا الإلكتروني',
+      'GET IN TOUCH':          'GET IN TOUCH',
+      'We want to share our locationto find us easily.': 'We want to share our location so you can find us easily.',
+      'Name (required)':       'Name (required)',
+      'Phone (optional)':      'Phone (optional)',
+      'Email address (required)': 'Email Address (required)',
+      'Services (required)':   'Services (required)',
+      'Choose services':       'Choose Services',
+      'Your message*':         'Your Message*',
+      'Full Name':             'Full Name',
+      'Phone Number':          'Phone Number',
+      'Email Address':         'Email Address',
+      'Your Message':          'Your Message',
+      'Our Address':           'Our Address',
+      'Our Phone':             'Our Phone',
+      'Our Email':             'Our Email',
       // blog
-      'LATEST NEWS':           'آخر الأخبار',
-      'Our Insights & Articles':'مقالاتنا ورؤانا',
-      'By Admin':              'بقلم الإدارة',
-      'Home Gardening':        'زراعة منزلية',
-      'Gardening Ideas':       'أفكار للحديقة',
+      'LATEST NEWS':           'LATEST NEWS',
+      'Our Insights & Articles':'Our Insights & Articles',
+      'By Admin':              'By Admin',
+      'Home Gardening':        'Home Gardening',
+      'Gardening Ideas':       'Gardening Ideas',
       // footer
-      'Quick Links':           'روابط سريعة',
-      'Newsletter':            'النشرة البريدية',
+      'Quick Links':           'Quick Links',
+      'Newsletter':            'Newsletter',
     }
   };
 
@@ -207,36 +207,21 @@
   function applyLang(lang) {
     var t = translations[lang];
     if (!t) return;
-    var isAr = lang === 'ar';
+    var isEn = lang === 'en';
 
-    // اتجاه الصفحة
-    document.documentElement.setAttribute('lang', isAr ? 'ar' : 'de');
-    document.documentElement.setAttribute('dir', isAr ? 'rtl' : 'ltr');
+    document.documentElement.setAttribute('lang', isEn ? 'en' : 'de');
+    document.documentElement.setAttribute('dir', 'ltr');
 
-    // ترجمة العقد النصية
     translateNode(document.body, t);
 
-    // الـ placeholders
     document.querySelectorAll('[placeholder]').forEach(function(el){
       var key = el.getAttribute('data-orig-ph') || el.getAttribute('placeholder');
       el.setAttribute('data-orig-ph', key);
       el.setAttribute('placeholder', t[key] || key);
     });
 
-    // CSS إضافي للعربية
-    var styleId = 'mgecke-lang-style';
-    var existing = document.getElementById(styleId);
-    if (existing) existing.remove();
-    if (isAr) {
-      var s = document.createElement('style');
-      s.id = styleId;
-      s.textContent = 'body, h1,h2,h3,h4,h5,p,a,li,label,input,textarea,select,button { font-family: "Segoe UI", Tahoma, Arial, sans-serif !important; } .mainnav .menu, .top-bar-right, .header-inner, nav { direction: rtl; } .menu > li { float: right !important; } #mgecke-chat-inputs input, #mgecke-chat-inputs button { direction: rtl; text-align: right; }';
-      document.head.appendChild(s);
-    }
-
-    // تحديث زر التبديل
     var btn = document.getElementById('mgecke-lang-btn');
-    if (btn) btn.textContent = isAr ? 'DE' : 'AR';
+    if (btn) btn.textContent = isEn ? 'DE' : 'EN';
 
     localStorage.setItem(STORAGE_KEY, lang);
   }
@@ -267,9 +252,9 @@
     var btn = document.createElement('button');
     btn.id = 'mgecke-lang-btn';
     var current = localStorage.getItem(STORAGE_KEY) || 'de';
-    btn.textContent = current === 'ar' ? 'DE' : 'AR';
+    btn.textContent = current === 'en' ? 'DE' : 'EN';
     btn.addEventListener('click', function(){
-      var next = (localStorage.getItem(STORAGE_KEY) || 'de') === 'de' ? 'ar' : 'de';
+      var next = (localStorage.getItem(STORAGE_KEY) || 'de') === 'de' ? 'en' : 'de';
       applyLang(next);
     });
     document.body.appendChild(btn);
