@@ -181,9 +181,33 @@
     while (tmp.firstChild) container.appendChild(tmp.firstChild);
   }
 
+  /* ── Fix nav: remove Home 01/02 dropdown ── */
+  function patchNav() {
+    document.querySelectorAll('#mainnav .menu, #mainnav-mobi .menu').forEach(function(menu) {
+      menu.querySelectorAll('li').forEach(function(li) {
+        var a = li.querySelector(':scope > a');
+        if (!a) return;
+        var text = a.textContent.trim();
+        if (text === 'Home' || text === 'Home 01' || text === 'Home 02') {
+          var sub = li.querySelector('.sub-menu');
+          if (sub) {
+            sub.remove();
+            li.classList.remove('menu-item-has-children');
+            a.removeAttribute('class');
+            a.setAttribute('href', '/');
+          }
+          /* Remove standalone Home 02 li entirely */
+          if (text === 'Home 02' && !sub) li.remove();
+          if (text === 'Home 01') { a.textContent = 'Home'; a.setAttribute('href', '/'); }
+        }
+      });
+    });
+  }
+
   function runPatch() {
     patchImageCards();
     patchIconBoxes();
+    patchNav();
   }
 
   /* Run after React has had time to hydrate */
