@@ -4,7 +4,13 @@ import { join } from 'path';
 
 const WHATSAPP_NUMBER = '017651359';
 
-const INJECT = `
+const INJECT = `\n<!-- floating buttons -->\n<script src="/floating-buttons.js" defer><\/script>\n`;
+
+const INJECT_OLD_START = `<!-- ===== WhatsApp Button ===== -->`;
+const INJECT_SCRIPT_TAG = `<!-- floating buttons -->`;
+
+// unused placeholder
+const _UNUSED = `
 <!-- ===== WhatsApp Button ===== -->
 <a href="https://wa.me/${WHATSAPP_NUMBER}" target="_blank" id="whatsapp-btn" title="WhatsApp" aria-label="WhatsApp">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="28" height="28" fill="#fff">
