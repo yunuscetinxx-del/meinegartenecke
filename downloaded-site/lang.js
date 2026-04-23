@@ -459,6 +459,32 @@
       'Außenpflanzen':                   'Outdoor Plants',
       'Gartenbeleuchtung & Bewässerung': 'Garden Lighting & Irrigation',
       'Gartenbeleuchtung':               'Garden Lighting',
+      // New services (user request: decorations, cleaning, lighting, chairs)
+      'Gartendekorationen':              'Garden Decorations',
+      'Gartenreinigung & Pflege':        'Garden Cleaning & Care',
+      'Gartenmöbel & Stühle':           'Garden Furniture & Chairs',
+      'Mehr erfahren':                   'Learn more',
+      'Individuelle Gartenplanung von der ersten Idee bis zur fertigen Gartenoase.':
+        'Individual garden planning from the first idea to the finished garden.',
+      'Stilvolle Gartendekoration mit Skulpturen, Pflanzgefäßen und dekorativen Elementen.':
+        'Stylish garden decoration with sculptures, planters and decorative elements.',
+      'Professionelle Gartenreinigung – Laubbeseitigung, Unkrautjäten und Frühjahrsputz.':
+        'Professional garden cleaning – leaf removal, weeding and spring cleaning.',
+      'Stimmungsvolle LED-Beleuchtung für Wege, Beete und Terrassen – für schöne Gartenabende.':
+        'Atmospheric LED lighting for paths, beds and terraces – for beautiful garden evenings.',
+      'Hochwertige Gartenmöbel – Stühle, Tische und Lounge-Bereiche für Ihren Außenbereich.':
+        'High-quality garden furniture – chairs, tables and lounge areas for your outdoor space.',
+      'Professionelle Terrassen- und Pflasterarbeiten aus Naturstein, Beton oder Klinker.':
+        'Professional terrace and paving work in natural stone, concrete or brick.',
+      // flat-services icon boxes
+      'Professionelle Gartenplanung und Gestaltung nach Ihren Wünschen – von der Idee bis zur Umsetzung.':
+        'Professional garden planning and design tailored to your wishes – from idea to completion.',
+      'Laubbeseitigung, Unkrautjäten, Beschönigung – Ihr Garten stets sauber und gepflegt.':
+        'Leaf removal, weeding, tidying up – your garden always clean and well-maintained.',
+      'Stimmungsvolle LED-Beleuchtung für Wege, Terrassen und Beete – schön und energieeffizient.':
+        'Atmospheric LED lighting for paths, terraces and beds – beautiful and energy-efficient.',
+      'Hochwertige Gartenmöbel – Stühle, Tische und Lounges für entspannte Stunden im Freien.':
+        'High-quality garden furniture – chairs, tables and lounges for relaxing hours outdoors.',
       // Contact / sidebar (real info)
       'Inhaber:':                        'Owner:',
       'Gartenstraße 12, 10115 Berlin':   'Gartenstraße 12, 10115 Berlin',
