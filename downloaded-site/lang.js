@@ -179,6 +179,26 @@
       'Irrigation &amp; Drainage': 'Bewässerung & Entwässerung',
       'Our Insights &amp; Articles': 'Unsere Beiträge & Artikel',
       'sign up for newslatter & get lattest news.': 'Anmelden & Neuigkeiten erhalten.',
+      // new 7 services (DE stays same, EN translated below)
+      'Terrasse & Pflasterarbeiten':     'Terrasse & Pflasterarbeiten',
+      'Gartengestaltung':                'Gartengestaltung',
+      'Formschnitt & Hecken':            'Formschnitt & Hecken',
+      'Saisonale Blumen':                'Saisonale Blumen',
+      'Zimmerpflanzen':                  'Zimmerpflanzen',
+      'Außenpflanzen':                   'Außenpflanzen',
+      'Gartenbeleuchtung & Bewässerung': 'Gartenbeleuchtung & Bewässerung',
+      // service descriptions (DE)
+      'Professionelle Terrassen- und Pflasterarbeiten aus Naturstein, Beton oder Klinker – dauerhaft und stilvoll.': 'Professionelle Terrassen- und Pflasterarbeiten aus Naturstein, Beton oder Klinker – dauerhaft und stilvoll.',
+      'Individuelle Gartenplanung und -anlage – von der ersten Idee bis zur fertig gestalteten Gartenoase.':        'Individuelle Gartenplanung und -anlage – von der ersten Idee bis zur fertig gestalteten Gartenoase.',
+      'Kunstvoller Formschnitt für Bäume, Sträucher und Hecken – für einen gepflegten und eleganten Garten.':      'Kunstvoller Formschnitt für Bäume, Sträucher und Hecken – für einen gepflegten und eleganten Garten.',
+      'Farbenfrohe Bepflanzung mit saisonalen Blumen für leuchtende Beete und Balkonkästen das ganze Jahr.':       'Farbenfrohe Bepflanzung mit saisonalen Blumen für leuchtende Beete und Balkonkästen das ganze Jahr.',
+      'Beratung und Lieferung von Zimmerpflanzen – für lebendige, gesunde und grüne Innenräume.':                  'Beratung und Lieferung von Zimmerpflanzen – für lebendige, gesunde und grüne Innenräume.',
+      'Auswahl und Pflanzung robuster Stauden, Gehölze und Sträucher für einen naturnahen Außenbereich.':          'Auswahl und Pflanzung robuster Stauden, Gehölze und Sträucher für einen naturnahen Außenbereich.',
+      'Installation von stimmungsvoller Gartenbeleuchtung und effizienten Bewässerungsanlagen für Ihren Garten.':  'Installation von stimmungsvoller Gartenbeleuchtung und effizienten Bewässerungsanlagen für Ihren Garten.',
+      'Professionelle Terrassen- und Pflasterarbeiten aus Naturstein, Beton oder Klinker.': 'Professionelle Terrassen- und Pflasterarbeiten aus Naturstein, Beton oder Klinker.',
+      'Individuelle Gartenplanung und -anlage – von der Idee bis zur fertig gestalteten Oase.':                    'Individuelle Gartenplanung und -anlage – von der Idee bis zur fertig gestalteten Oase.',
+      'Kunstvoller Formschnitt für Bäume, Sträucher und Hecken für einen gepflegten Garten.':                     'Kunstvoller Formschnitt für Bäume, Sträucher und Hecken für einen gepflegten Garten.',
+      'Installation von Gartenbeleuchtung und effizienten Bewässerungsanlagen.':                                   'Installation von Gartenbeleuchtung und effizienten Bewässerungsanlagen.',
     },
 
     en: {
@@ -353,6 +373,26 @@
       'Irrigation &amp; Drainage': 'Irrigation & Drainage',
       'Our Insights &amp; Articles': 'Our Insights & Articles',
       'sign up for newslatter & get lattest news.': 'Sign up & get latest news.',
+      // new 7 services (EN translations)
+      'Terrasse & Pflasterarbeiten':     'Terrace & Paving',
+      'Gartengestaltung':                'Garden Design',
+      'Formschnitt & Hecken':            'Topiary & Hedges',
+      'Saisonale Blumen':                'Seasonal Flowers',
+      'Zimmerpflanzen':                  'Indoor Plants',
+      'Außenpflanzen':                   'Outdoor Plants',
+      'Gartenbeleuchtung & Bewässerung': 'Garden Lighting & Irrigation',
+      // service descriptions (EN)
+      'Professionelle Terrassen- und Pflasterarbeiten aus Naturstein, Beton oder Klinker – dauerhaft und stilvoll.': 'Professional terrace and paving work using natural stone, concrete, or brick – durable and stylish.',
+      'Individuelle Gartenplanung und -anlage – von der ersten Idee bis zur fertig gestalteten Gartenoase.':        'Individual garden planning and construction – from the first idea to the finished garden oasis.',
+      'Kunstvoller Formschnitt für Bäume, Sträucher und Hecken – für einen gepflegten und eleganten Garten.':      'Artistic topiary for trees, shrubs and hedges – for a well-maintained and elegant garden.',
+      'Farbenfrohe Bepflanzung mit saisonalen Blumen für leuchtende Beete und Balkonkästen das ganze Jahr.':       'Colourful planting with seasonal flowers for vibrant flowerbeds and balcony boxes all year round.',
+      'Beratung und Lieferung von Zimmerpflanzen – für lebendige, gesunde und grüne Innenräume.':                  'Advice and delivery of indoor plants – for lively, healthy and green interior spaces.',
+      'Auswahl und Pflanzung robuster Stauden, Gehölze und Sträucher für einen naturnahen Außenbereich.':          'Selection and planting of robust perennials, woody plants and shrubs for a natural outdoor area.',
+      'Installation von stimmungsvoller Gartenbeleuchtung und effizienten Bewässerungsanlagen für Ihren Garten.':  'Installation of atmospheric garden lighting and efficient irrigation systems for your garden.',
+      'Professionelle Terrassen- und Pflasterarbeiten aus Naturstein, Beton oder Klinker.': 'Professional terrace and paving work in natural stone, concrete or brick.',
+      'Individuelle Gartenplanung und -anlage – von der Idee bis zur fertig gestalteten Oase.':                    'Individual garden planning – from the idea to the finished oasis.',
+      'Kunstvoller Formschnitt für Bäume, Sträucher und Hecken für einen gepflegten Garten.':                     'Artistic topiary for trees, shrubs and hedges for a well-maintained garden.',
+      'Installation von Gartenbeleuchtung und effizienten Bewässerungsanlagen.':                                   'Installation of garden lighting and efficient irrigation systems.',
     }
   };
 
