@@ -187,6 +187,83 @@
       'Zimmerpflanzen':                  'Zimmerpflanzen',
       'Außenpflanzen':                   'Außenpflanzen',
       'Gartenbeleuchtung & Bewässerung': 'Gartenbeleuchtung & Bewässerung',
+      'Gartenbeleuchtung':               'Gartenbeleuchtung',
+      // Contact / sidebar (real info)
+      'Inhaber:':                        'Inhaber:',
+      'Gartenstraße 12, 10115 Berlin':   'Gartenstraße 12, 10115 Berlin',
+      '+49 30 123 456 78':               '+49 30 123 456 78',
+      'Max Müller':                      'Max Müller',
+      // Sidebar brochure
+      'GARTENPLANUNG':                   'GARTENPLANUNG',
+      'Kostenlose Beratung':             'Kostenlose Beratung',
+      'Vereinbaren Sie jetzt Ihren persönlichen Beratungstermin – kostenlos und unverbindlich vor Ort.':
+        'Vereinbaren Sie jetzt Ihren persönlichen Beratungstermin – kostenlos und unverbindlich vor Ort.',
+      'ANFRAGEN':                        'ANFRAGEN',
+      'LEISTUNGEN':                      'LEISTUNGEN',
+      // Main content
+      'Gartenpflege, die zählt.':        'Gartenpflege, die zählt.',
+      'Meine Garten Ecke steht für professionelle Gartengestaltung und Landschaftsbau in Berlin und Umgebung. Wir planen und gestalten Ihren Wunschgarten von der ersten Idee bis zur fertigen Ausführung – terrassennahe Pflasterarbeiten, Hecken- und Formschnitt, Bewässerungsanlagen und vieles mehr. Qualität, Verlässlichkeit und Liebe zum Detail sind unser Anspruch.':
+        'Meine Garten Ecke stands for professional garden design and landscaping in Berlin. We plan and create your dream garden from the first idea to the finished result – patio paving, topiary, irrigation systems and much more.',
+      'Gartenplanung & Gestaltung':      'Garden Planning & Design',
+      'Rasenpflege & Bewässerung':       'Lawn Care & Irrigation',
+      'MEINE GARTEN ECKE TEAM':          'MEINE GARTEN ECKE TEAM',
+      // FAQ categories
+      'Preise & Angebote':               'Prices & Quotes',
+      'Buchung':                         'Booking',
+      'Pflanzenpflege':                  'Plant Care',
+      'Gartenprojekte':                  'Garden Projects',
+      'Kontakt':                         'Contact',
+      // FAQ questions
+      'Was kostet eine Gartengestaltung?':          'How much does garden design cost?',
+      'Wie schnell können Sie mit einem Projekt starten?': 'How quickly can you start a project?',
+      'Welche Pflanzen eignen sich für Berlin?':    'Which plants are suitable for Berlin?',
+      'Bieten Sie Wartungsverträge an?':            'Do you offer maintenance contracts?',
+      'Kann ich eine Bewässerungsanlage nachrüsten?': 'Can I add an irrigation system to an existing garden?',
+      'Arbeiten Sie auch an Wochenenden?':          'Do you also work on weekends?',
+      'Übernehmen Sie auch Entsorgung von Grünschnitt?': 'Do you handle green waste disposal?',
+      'Stellen Sie auch Topfpflanzen für Innenräume bereit?': 'Do you provide indoor potted plants?',
+      'Können Sie einen Gartenteich oder Wasserspiel anlegen?': 'Can you build a garden pond or water feature?',
+      // Blog posts
+      'Die schönsten Gartenideen für Berliner Stadthausgärten 2025': 'Best Garden Ideas for Berlin Urban Gardens 2025',
+      'Traumterrasse aus Naturstein planen':        'Planning a Dream Natural Stone Terrace',
+      'Weniger Rasen, mehr Leben: Wildblumenwiese anlegen': 'Less Lawn, More Life: Creating a Wildflower Meadow',
+      // Blog categories
+      'Pflanzentipps':                   'Plant Tips',
+      'Rasenpflege':                     'Lawn Care',
+      'Hecken & Formschnitt':            'Hedges & Topiary',
+      'Bewässerung':                     'Irrigation',
+      // Case study
+      'Traumgarten Berlin-Mitte':        'Dream Garden Berlin-Mitte',
+      'Terrasse, Beete und Bewässerung komplett': 'Terrace, beds and irrigation – complete',
+      'Naturstein-Terrasse Zehlendorf':  'Natural Stone Terrace Zehlendorf',
+      'Großflächige Pflasterarbeiten mit Beleuchtung': 'Large-scale paving with lighting',
+      'Abgeschlossenes Gartenprojekt in Berlin': 'Completed garden project in Berlin',
+      // About
+      'Meine Garten Ecke ist Ihr zuverlässiger Partner für professionellen Garten- und Landschaftsbau in Berlin. Seit Jahren gestalten wir Wunschgärten mit Leidenschaft, Fachkenntnis und hochwertigen Materialien.':
+        'Meine Garten Ecke is your reliable partner for professional garden and landscape construction in Berlin. For years we have designed dream gardens with passion and expertise.',
+      'Erfahrene Gartenbauer':           'Experienced Garden Builders',
+      'Über 15 Jahre Erfahrung im Gartenbau': 'Over 15 years of experience',
+      '500+ Gartenprojekte':             '500+ Garden Projects',
+      'Erfolgreich abgeschlossene Projekte in Berlin': 'Successfully completed projects in Berlin',
+      'Umwelt bewusst gestalten':        'Design with Environmental Awareness',
+      // Testimonials
+      'Fantastische Arbeit! Der Garten wurde professionell und termingerecht umgestaltet.': 'Fantastic work! The garden was redesigned professionally and on time.',
+      'Super Team, tolle Beratung und wunderschöne Terrassengestaltung!': 'Great team, excellent advice and beautiful terrace design!',
+      'Zuverlässig, pünktlich und das Ergebnis hat unsere Erwartungen übertroffen.': 'Reliable, punctual and the result exceeded our expectations.',
+      'Herzlichen Dank – unser Garten ist jetzt ein echtes Schmuckstück!': 'Many thanks – our garden is now a real gem!',
+      // Newsletter
+      'Gartentipps und saisonale Angebote – jetzt anmelden!': 'Garden tips and seasonal offers – sign up now!',
+      'Aktuelle Gartentipps und saisonale Angebote direkt in Ihr Postfach.': 'Current garden tips and seasonal offers straight to your inbox.',
+      'Ihr Partner für professionellen Garten- und Landschaftsbau in Berlin.': 'Your partner for professional garden and landscape design in Berlin.',
+      // General
+      'Wir haben die perfekte Lösung für Sie': 'We have the perfect solution for you',
+      'Qualität und Zuverlässigkeit':    'Quality and Reliability',
+      'Gartengestaltung':                'Gartengestaltung',
+      'Formschnitt & Hecken':            'Formschnitt & Hecken',
+      'Saisonale Blumen':                'Saisonale Blumen',
+      'Zimmerpflanzen':                  'Zimmerpflanzen',
+      'Außenpflanzen':                   'Außenpflanzen',
+      'Gartenbeleuchtung & Bewässerung': 'Gartenbeleuchtung & Bewässerung',
       // service descriptions (DE)
       'Professionelle Terrassen- und Pflasterarbeiten aus Naturstein, Beton oder Klinker – dauerhaft und stilvoll.': 'Professionelle Terrassen- und Pflasterarbeiten aus Naturstein, Beton oder Klinker – dauerhaft und stilvoll.',
       'Individuelle Gartenplanung und -anlage – von der ersten Idee bis zur fertig gestalteten Gartenoase.':        'Individuelle Gartenplanung und -anlage – von der ersten Idee bis zur fertig gestalteten Gartenoase.',
@@ -375,6 +452,83 @@
       'sign up for newslatter & get lattest news.': 'Sign up & get latest news.',
       // new 7 services (EN translations)
       'Terrasse & Pflasterarbeiten':     'Terrace & Paving',
+      'Gartengestaltung':                'Garden Design',
+      'Formschnitt & Hecken':            'Topiary & Hedges',
+      'Saisonale Blumen':                'Seasonal Flowers',
+      'Zimmerpflanzen':                  'Indoor Plants',
+      'Außenpflanzen':                   'Outdoor Plants',
+      'Gartenbeleuchtung & Bewässerung': 'Garden Lighting & Irrigation',
+      'Gartenbeleuchtung':               'Garden Lighting',
+      // Contact / sidebar (real info)
+      'Inhaber:':                        'Owner:',
+      'Gartenstraße 12, 10115 Berlin':   'Gartenstraße 12, 10115 Berlin',
+      '+49 30 123 456 78':               '+49 30 123 456 78',
+      'Max Müller':                      'Max Müller',
+      // Sidebar brochure
+      'GARTENPLANUNG':                   'GARDEN PLANNING',
+      'Kostenlose Beratung':             'Free Consultation',
+      'Vereinbaren Sie jetzt Ihren persönlichen Beratungstermin – kostenlos und unverbindlich vor Ort.':
+        'Book your personal consultation now – free of charge and without obligation.',
+      'ANFRAGEN':                        'ENQUIRE',
+      'LEISTUNGEN':                      'SERVICES',
+      // Main content
+      'Gartenpflege, die zählt.':        'Gardening that matters.',
+      'Meine Garten Ecke steht für professionelle Gartengestaltung und Landschaftsbau in Berlin und Umgebung. Wir planen und gestalten Ihren Wunschgarten von der ersten Idee bis zur fertigen Ausführung – terrassennahe Pflasterarbeiten, Hecken- und Formschnitt, Bewässerungsanlagen und vieles mehr. Qualität, Verlässlichkeit und Liebe zum Detail sind unser Anspruch.':
+        'Meine Garten Ecke stands for professional garden design and landscaping in Berlin. We plan and create your dream garden from the first idea to the finished result – patio paving, topiary, irrigation systems and much more.',
+      'Gartenplanung & Gestaltung':      'Garden Planning & Design',
+      'Rasenpflege & Bewässerung':       'Lawn Care & Irrigation',
+      'MEINE GARTEN ECKE TEAM':          'MEINE GARTEN ECKE TEAM',
+      // FAQ categories
+      'Preise & Angebote':               'Prices & Quotes',
+      'Buchung':                         'Booking',
+      'Pflanzenpflege':                  'Plant Care',
+      'Gartenprojekte':                  'Garden Projects',
+      'Kontakt':                         'Contact',
+      // FAQ questions
+      'Was kostet eine Gartengestaltung?':          'How much does garden design cost?',
+      'Wie schnell können Sie mit einem Projekt starten?': 'How quickly can you start a project?',
+      'Welche Pflanzen eignen sich für Berlin?':    'Which plants are suitable for Berlin?',
+      'Bieten Sie Wartungsverträge an?':            'Do you offer maintenance contracts?',
+      'Kann ich eine Bewässerungsanlage nachrüsten?': 'Can I add an irrigation system to an existing garden?',
+      'Arbeiten Sie auch an Wochenenden?':          'Do you also work on weekends?',
+      'Übernehmen Sie auch Entsorgung von Grünschnitt?': 'Do you handle green waste disposal?',
+      'Stellen Sie auch Topfpflanzen für Innenräume bereit?': 'Do you provide indoor potted plants?',
+      'Können Sie einen Gartenteich oder Wasserspiel anlegen?': 'Can you build a garden pond or water feature?',
+      // Blog posts
+      'Die schönsten Gartenideen für Berliner Stadthausgärten 2025': 'Best Garden Ideas for Berlin Urban Gardens 2025',
+      'Traumterrasse aus Naturstein planen':        'Planning a Dream Natural Stone Terrace',
+      'Weniger Rasen, mehr Leben: Wildblumenwiese anlegen': 'Less Lawn, More Life: Creating a Wildflower Meadow',
+      // Blog categories
+      'Pflanzentipps':                   'Plant Tips',
+      'Rasenpflege':                     'Lawn Care',
+      'Hecken & Formschnitt':            'Hedges & Topiary',
+      'Bewässerung':                     'Irrigation',
+      // Case study
+      'Traumgarten Berlin-Mitte':        'Dream Garden Berlin-Mitte',
+      'Terrasse, Beete und Bewässerung komplett': 'Terrace, beds and irrigation – complete',
+      'Naturstein-Terrasse Zehlendorf':  'Natural Stone Terrace Zehlendorf',
+      'Großflächige Pflasterarbeiten mit Beleuchtung': 'Large-scale paving with lighting',
+      'Abgeschlossenes Gartenprojekt in Berlin': 'Completed garden project in Berlin',
+      // About
+      'Meine Garten Ecke ist Ihr zuverlässiger Partner für professionellen Garten- und Landschaftsbau in Berlin. Seit Jahren gestalten wir Wunschgärten mit Leidenschaft, Fachkenntnis und hochwertigen Materialien.':
+        'Meine Garten Ecke is your reliable partner for professional garden and landscape construction in Berlin. For years we have designed dream gardens with passion and expertise.',
+      'Erfahrene Gartenbauer':           'Experienced Garden Builders',
+      'Über 15 Jahre Erfahrung im Gartenbau': 'Over 15 years of experience',
+      '500+ Gartenprojekte':             '500+ Garden Projects',
+      'Erfolgreich abgeschlossene Projekte in Berlin': 'Successfully completed projects in Berlin',
+      'Umwelt bewusst gestalten':        'Design with Environmental Awareness',
+      // Testimonials
+      'Fantastische Arbeit! Der Garten wurde professionell und termingerecht umgestaltet.': 'Fantastic work! The garden was redesigned professionally and on time.',
+      'Super Team, tolle Beratung und wunderschöne Terrassengestaltung!': 'Great team, excellent advice and beautiful terrace design!',
+      'Zuverlässig, pünktlich und das Ergebnis hat unsere Erwartungen übertroffen.': 'Reliable, punctual and the result exceeded our expectations.',
+      'Herzlichen Dank – unser Garten ist jetzt ein echtes Schmuckstück!': 'Many thanks – our garden is now a real gem!',
+      // Newsletter
+      'Gartentipps und saisonale Angebote – jetzt anmelden!': 'Garden tips and seasonal offers – sign up now!',
+      'Aktuelle Gartentipps und saisonale Angebote direkt in Ihr Postfach.': 'Current garden tips and seasonal offers straight to your inbox.',
+      'Ihr Partner für professionellen Garten- und Landschaftsbau in Berlin.': 'Your partner for professional garden and landscape design in Berlin.',
+      // General
+      'Wir haben die perfekte Lösung für Sie': 'We have the perfect solution for you',
+      'Qualität und Zuverlässigkeit':    'Quality and Reliability',
       'Gartengestaltung':                'Garden Design',
       'Formschnitt & Hecken':            'Topiary & Hedges',
       'Saisonale Blumen':                'Seasonal Flowers',
